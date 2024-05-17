@@ -206,8 +206,12 @@
 ## 8. 결과  
 <img src="https://i.ibb.co/nk8FH4d/result.png" alt="result" border="0">
 - 질문에 대한 모델1, 2, 3, 4의 답변들  
+- https://www.notion.so/rimiyeyo/MENTOS-3-65d1c2f470454bbdb26750d770ef03b4?p=c227bf1f5f994a24bf6d02b9f9487dbb&pm=s
+- 하이퍼 파라미터를 각기 달리하여 SFTTrainer를 통해 fine-tuning한 모델들의 출력물을 비교
+- 가장 최적의 모델에 대하여는 DPO까지 진행하였으나, 해당 모델의 말투가 비교적 격식을 갖추고 전문적 영역에서 이루어지는 것으로 보아 챗봇의 새로운 말투로 추가.
   
   
 <img src="https://i.ibb.co/ZB5HpWG/result.png" alt="result" border="0">
 - 모델1, 2, 3, 4 평가 지표
 - 모델3이 가장 좋은 평가를 보임
+- (실제 출력 사진)
